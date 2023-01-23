@@ -13,11 +13,11 @@
 
 **Interactive Playground:**
 General overview of how the interface works like:
-   > File explorer
-   > Serach Across Files
-   > Source Code Management
-   > Launch and Debug
-   > Manage Extension
+   - File explorer
+   - Search Across Files
+   - Source Code Management
+   - Launch and Debug
+   - Manage Extension
   
   **Command Palette:**
   - Go to the **VIEW** page to explore some features if how it works.
