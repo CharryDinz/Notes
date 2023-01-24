@@ -6,10 +6,10 @@
 - Open a new file go to File > New File or use the shortcut key **Ctrl + N**
 - Open an existing file, go to File > Open or use the shortcut key **Ctrl + 0**
 - Go to **HELP MENU** to get more detailed introduction and **WELCOME** page for some feature.
-
+<img src="https://github.com/CharryDinz/Notes/blob/main/imagevscode.png" alt="image" width="1000" height="210"/> 
 
 **Interactive Playground:**
-- Most popular in VS Code a productivee code editor
+- Most popular in VS Code a productive code editor
 
 **Interactive Playground:**
 General overview of how the interface works like:
@@ -32,6 +32,6 @@ General overview of how the interface works like:
 **Key Maps**
 - Install the **Sublime text key map**
 - Check the **Feature Contributions** available for the keyboard shortcuts 
-
+![image](https://github.com/CharryDinz/Notes/blob/main/image1.png) 
 
   
