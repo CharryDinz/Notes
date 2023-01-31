@@ -30,8 +30,8 @@ Tips:
 - Logistics
 
 #### STAR SYSTEM
-**S** - Space
-**T** - Track
-**A** - Assist
-**R** - Reach
+- **S** - Space
+- **T** - Track
+- **A** - Assist
+- **R** - Reach
 
