@@ -1,7 +1,7 @@
 #### What is the UX Design?
 ---
 **UX Design** - studies the many processes of a system. It is the design behind the visuals. Visual design is just one small part of it. It's an important part, but some of the best UX Designers.
-![image](https://github.com/CharryDinz/Notes/blob/main/What%20is%20UX%20Design.png)
+![image](https://github.com/CharryDinz/Notes/blob/main/images/What%20is%20UX%20Design.png)
 
 ##### UX (User Experience)  
 If how a person feels when using the app. UX looks at many things such as design, usability, accesability, marketing, system performance and utility.
@@ -47,7 +47,8 @@ It Is an agile framework that helps your team visualize work and continuously im
 - Commitment point
 - Work in progress limit
 - Delivery point
-![image](https://github.com/CharryDinz/Notes/blob/main/Kanban.png)
+
+![image](https://github.com/CharryDinz/Notes/blob/main/images/Kanban.png)
 
 #### Scrum
 A popular agile framework focused on following a set of rules and delivering in time-boxed increments.
