@@ -14,6 +14,7 @@ One of the major handicaps of the traditional Waterfall model was that – until
 ##### How To Deliver High Value Software Features In A Short Time Period Using Agile Scrum Process
 
 ![image](https://www.softwaretestinghelp.com/wp-content/qa/uploads/2010/07/sprint-e1505813285619.jpg)
+
 Scrum is an iterative and incremental framework for projects, products and application development. Scrum has become a more and more popular software development and testing framework among organizations.
 
 Many small to large-sized IT companies have embraced the Scrum framework as this creates excellent quality products in less time than other traditional methodologies like waterfall processes.
